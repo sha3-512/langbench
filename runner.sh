@@ -32,3 +32,6 @@ gcc -o target/matrix src/matrix/matrix.c
 echo "=== Zig ==="
 zig build-exe src/matrix/matrix.zig
 ./matrix
+
+echo "=== Go ==="
+go run src/matrix/matrix.go
