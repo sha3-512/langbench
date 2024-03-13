@@ -21,9 +21,7 @@ https://luajit.org/install.html
 
 
 ## java
-```sh
 https://www.oracle.com/java/technologies/downloads/
-```
 
 ## rust
 https://www.rust-lang.org/tools/install
