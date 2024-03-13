@@ -52,6 +52,6 @@ public class Matrix {
         double[][] resultMatrix = matrixMultiplication(matrixA, matrixB);
 
         long endTime = System.currentTimeMillis();
-        System.out.println("Matrix Multiplication time: " + (endTime - startTime) + " ms");
+        System.out.println("Matrix Multiplication time: " + (endTime - startTime) + "ms");
     }
 }

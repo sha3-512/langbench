@@ -6,10 +6,10 @@ mkdir target
 echo "=== Node.js ==="
 node src/matrix/matrix.js
 
-echo "=== Deno ==="
+echo "=== Deno.js ==="
 deno run src/matrix/matrix.js
 
-echo "=== Bun ==="
+echo "=== Bun.js ==="
 bun src/matrix/matrix.js
 
 echo "=== LuaJIT ==="
