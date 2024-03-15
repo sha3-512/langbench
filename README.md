@@ -68,7 +68,7 @@ matrixSize: 1000
 Matrix Multiplication time: 10.702061s
 === Java ===
 matrixSize: 1000
-Matrix Multiplication time: 8225 ms
+Matrix Multiplication time: 8225ms
 === Rust ===
 matrixSize: 1000
 Matrix Multiplication time: 8.35774413s
