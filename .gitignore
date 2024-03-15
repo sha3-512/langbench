@@ -1,5 +1,6 @@
 *.class
 *.o
+matrix
 
 src/*.class
 src/*.o
