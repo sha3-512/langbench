@@ -40,15 +40,15 @@ sudo apt install build-essential
 ### Zig
 https://ziglang.org/download/
 ```sh
-mkdir ~/zig
-curl -L https://ziglang.org/builds/zig-linux-x86_64-0.12.0-dev.3212+40e64245f.tar.xz | tar -xJ -C ~/zig --strip-components=1
+mkdir ~/opt/zig
+curl -L https://ziglang.org/builds/zig-linux-x86_64-0.12.0-dev.3212+40e64245f.tar.xz | tar -xJ -C ~/opt/zig --strip-components=1
 ```
 
 ### Go
 https://go.dev/doc/install
 ```sh
-mkdir ~/go
-curl -sSL https://go.dev/dl/go1.22.1.linux-amd64.tar.gz | tar -C ~/go -xz
+mkdir ~/opt/go
+curl -sSL https://go.dev/dl/go1.22.1.linux-amd64.tar.gz | tar -C ~/opt/go -xz
 ```
 
 
